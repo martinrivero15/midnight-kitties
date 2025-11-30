@@ -342,6 +342,33 @@ This project welcomes contributions and questions from anyone interested in lear
 5. Submit a pull request
 
 ---
+## 🚀 My Midnight Kitties Deployment
+
+This repo is a fork of the original project [riusricardo/midnight-kitties](https://github.com/riusricardo/midnight-kitties), successfully deployed on testnet as part of the #MidnightForDevs challenge.
+
+### 🛠️ Technical Details
+
+- 📄 Deployed contract: `02004b0b74c764ec5fa4d67267211b8410f10952dc8258f68b7560c6334d02a6812d`
+- 👛 Testnet wallet used: `mn_shield-addr_test134xjqt...` (with simulated balance)
+- 🐱 First Kitty successfully minted
+- 📢 Post on X: [[insert your tweet or thread here]](https://x.com/RiveroMartinOK/status/1994093649900619828?s=20)
+
+```txt
+[00:42:52.360] INFO (6067): Kitty #1:
+[00:42:52.360] INFO (6067):   DNA: 0x33295101d99b52a33e919ac1da8999a752f494c3d20d730ae573366b7a032e86
+[00:42:52.361] INFO (6067):   Gender: Female
+[00:42:52.361] INFO (6067):   Generation: Gen 0
+[00:42:52.362] INFO (6067):   Price: 0
+[00:42:52.362] INFO (6067):   For Sale: No
+```
+### 📚 Stack used
+
+- ⚙️ Compact v0.25.0
+- 🧪 Midnight Toolchain + CLI
+- 🐳 Docker + testcontainers
+- 🌐 dApp frontend React and local wallet
+
+---
 
 ## 📄 License
 
