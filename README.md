@@ -351,7 +351,7 @@ This repo is a fork of the original project [riusricardo/midnight-kitties](https
 - 📄 Deployed contract: `02004b0b74c764ec5fa4d67267211b8410f10952dc8258f68b7560c6334d02a6812d`
 - 👛 Testnet wallet used: `mn_shield-addr_test134xjqt...` (with simulated balance)
 - 🐱 First Kitty successfully minted
-- 📢 Post on X: [[insert your tweet or thread here]](https://x.com/RiveroMartinOK/status/1994093649900619828?s=20)
+- 📢 Post on X: [[X-tweet]](https://x.com/RiveroMartinOK/status/1994093649900619828?s=20)
 
 ```txt
 [00:42:52.360] INFO (6067): Kitty #1:
